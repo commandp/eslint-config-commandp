@@ -110,4 +110,4 @@ module.exports = {
     'wrap-iife': [2, 'any'],
     'yoda': [2, 'never']
   }
-};
+}

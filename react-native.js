@@ -4,4 +4,4 @@ module.exports = {
     'RNBridge': true,
     '__DEV__': true
   }
-};
+}
