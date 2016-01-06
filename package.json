@@ -1,0 +1,18 @@
+{
+  "name": "eslint-config-commandp",
+  "version": "0.1.0",
+  "description": "The Vault of commandp's eslint rules.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/commandp/eslint-config-commandp.git"
+  },
+  "author": [
+    "commandp (commandp.com)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/commandp/eslint-config-commandp/issues"
+  },
+  "homepage": "https://github.com/commandp/eslint-config-commandp"
+}
