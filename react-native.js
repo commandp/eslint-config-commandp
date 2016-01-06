@@ -1,5 +1,5 @@
 module.exports = {
-  'extends': 'react',
+  'extends': 'commandp/react',
   'globals': {
     'RNBridge': true,
     '__DEV__': true

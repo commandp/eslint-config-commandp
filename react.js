@@ -1,5 +1,5 @@
 module.exports = {
-  'extends': 'commandp',
+  'extends': 'commandp/es6',
   'plugins': [
     'react'                          // https://github.com/yannickcr/eslint-plugin-react
   ],
