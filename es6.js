@@ -97,6 +97,8 @@ module.exports = {
     'radix': 2,
     'semi': [2, 'never'],
     'semi-spacing': [2, { 'before': false, 'after': true }],
+    'array-bracket-spacing': [2, 'always'],
+    'object-curly-spacing': [2, 'always'],
     'space-after-keywords': [2, 'always'],
     'space-before-blocks': [2, 'always'],
     'space-before-function-paren': [2, 'always'],
