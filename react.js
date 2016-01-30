@@ -33,7 +33,7 @@ module.exports = {
     'react/jsx-indent-props': [2, 2],
     // Validate JSX has key prop when in array or iterator
     // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-key.md
-    'react/jsx-key': 0,
+    'react/jsx-key': 2,
     // Limit maximum of props on a single line in JSX
     // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-max-props-per-line.md
     'react/jsx-max-props-per-line': [0, { 'maximum': 1 }],
