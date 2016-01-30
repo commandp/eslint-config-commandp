@@ -93,6 +93,7 @@ module.exports = {
     'one-var': [2, { 'initialized': 'never' }],
     'operator-linebreak': [2, 'after', { 'overrides': { '?': 'before', ':': 'before' } }],
     'padded-blocks': [2, 'never'],
+    'prefer-const': 2,
     'quotes': [2, 'single', 'avoid-escape'],
     'radix': 2,
     'semi': [2, 'never'],
