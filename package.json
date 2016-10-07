@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-commandp",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "The Vault of commandp's eslint rules.",
   "main": "index.js",
   "repository": {
